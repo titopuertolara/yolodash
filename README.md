@@ -5,11 +5,11 @@ Make sure your are using proper url or your webcam in cv2.capture
 
 requirements:
 
-_pip3 install dash
+_ pip3 install dash
 
-_pip3 install jupyter-dash ( for notebook samaple)
+_ pip3 install jupyter-dash ( for notebook samaple)
 
-_pip3 install pytorch torchvision
+_ pip3 install pytorch torchvision
 
 
 
