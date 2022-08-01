@@ -7,7 +7,7 @@ requirements:
 
 pip3 install dash
 
-pip3 install jupyter-dash ( for notebook samaple)
+pip3 install jupyter-dash ( for notebook sample)
 
 pip3 install pytorch torchvision
 
