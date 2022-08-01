@@ -1,7 +1,18 @@
 # YOLO and Dash
-combining plotly dash with python and yolo
+Combining plotly dash with python and yolo
 
-make sure your are using proper url or your webcam in cv2.capture
+Make sure your are using proper url or your webcam in cv2.capture
+
+requirements:
+
+_pip3 install dash
+
+_pip3 install jupyter-dash ( for notebook samaple)
+
+_pip3 install pytorch torchvision
+
 
 
 ![alt text](https://github.com/titopuertolara/yolodash/blob/main/Selection_092.png?raw=true)
+
+
